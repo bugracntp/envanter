@@ -1,0 +1,28 @@
+C:\Users\aslan\Desktop\envanter otomasyon\e-envanter\e-envanter\bin\Debug\e-envanter.exe.config
+C:\Users\aslan\Desktop\envanter otomasyon\e-envanter\e-envanter\bin\Debug\e-envanter.exe
+C:\Users\aslan\Desktop\envanter otomasyon\e-envanter\e-envanter\bin\Debug\e-envanter.pdb
+C:\Users\aslan\Desktop\envanter otomasyon\e-envanter\e-envanter\obj\Debug\e-envanter.csproj.AssemblyReference.cache
+C:\Users\aslan\Desktop\envanter otomasyon\e-envanter\e-envanter\obj\Debug\e_envanter.Properties.Resources.resources
+C:\Users\aslan\Desktop\envanter otomasyon\e-envanter\e-envanter\obj\Debug\e-envanter.csproj.GenerateResource.cache
+C:\Users\aslan\Desktop\envanter otomasyon\e-envanter\e-envanter\obj\Debug\e-envanter.csproj.CoreCompileInputs.cache
+C:\Users\aslan\Desktop\envanter otomasyon\e-envanter\e-envanter\obj\Debug\e-envanter.exe
+C:\Users\aslan\Desktop\envanter otomasyon\e-envanter\e-envanter\obj\Debug\e-envanter.pdb
+C:\Users\aslan\Desktop\envanter otomasyon\e-envanter\e-envanter\obj\Debug\e_envanter.calisanSayfasi.resources
+C:\Users\aslan\Desktop\envanter otomasyon\e-envanter\e-envanter\obj\Debug\e_envanter.yoneticiSayfası.resources
+C:\Users\aslan\Desktop\envanter otomasyon\e-envanter\e-envanter\obj\Debug\e_envanter.giris.resources
+C:\Users\aslan\Desktop\envanter otomasyon\e-envanter\e-envanter\obj\Debug\e_envanter.satisSayfasi.resources
+C:\Users\aslan\Desktop\envanter otomasyon\e-envanter\e-envanter\obj\Debug\e_envanter.satisList.resources
+D:\calismalar\c#\e-envanter\e-envanter\bin\Debug\e-envanter.exe.config
+D:\calismalar\c#\e-envanter\e-envanter\bin\Debug\e-envanter.exe
+D:\calismalar\c#\e-envanter\e-envanter\bin\Debug\e-envanter.pdb
+D:\calismalar\c#\e-envanter\e-envanter\obj\Debug\e-envanter.csproj.AssemblyReference.cache
+D:\calismalar\c#\e-envanter\e-envanter\obj\Debug\e_envanter.calisanSayfasi.resources
+D:\calismalar\c#\e-envanter\e-envanter\obj\Debug\e_envanter.giris.resources
+D:\calismalar\c#\e-envanter\e-envanter\obj\Debug\e_envanter.satisSayfasi.resources
+D:\calismalar\c#\e-envanter\e-envanter\obj\Debug\e_envanter.Properties.Resources.resources
+D:\calismalar\c#\e-envanter\e-envanter\obj\Debug\e_envanter.satisList.resources
+D:\calismalar\c#\e-envanter\e-envanter\obj\Debug\e_envanter.yoneticiSayfası.resources
+D:\calismalar\c#\e-envanter\e-envanter\obj\Debug\e-envanter.csproj.GenerateResource.cache
+D:\calismalar\c#\e-envanter\e-envanter\obj\Debug\e-envanter.csproj.CoreCompileInputs.cache
+D:\calismalar\c#\e-envanter\e-envanter\obj\Debug\e-envanter.exe
+D:\calismalar\c#\e-envanter\e-envanter\obj\Debug\e-envanter.pdb
